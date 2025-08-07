@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,Price,QuantitySold,Discount,StockLeft,Date
+101,Rose Plant,Plant,150,20,0.1,5,2025-08-06
+102,Shovel,Tool,300,10,0.05,20,2025-08-06
+103,Tulip Bulbs,Plant,100,25,0.0,8,2025-08-06
+104,Watering Can,Tool,250,8,0.15,15,2025-08-06
+105,Organic Fertilizer,Fertilizer,400,15,0.2,6,2025-08-06
+106,Gloves,Tool,100,12,0.05,25,2025-08-06
+107,Cactus,Plant,200,18,0.0,9,2025-08-06
+108,Compost Bag,Fertilizer,350,10,0.1,7,2025-08-06
