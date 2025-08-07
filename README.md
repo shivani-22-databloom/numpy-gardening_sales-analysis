@@ -12,10 +12,6 @@ This project analyzes sales data to extract meaningful insights such as total sa
 
 - Python
 - Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 
 ## 📊 Key Insights
 
